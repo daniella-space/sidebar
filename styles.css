@@ -1,0 +1,17 @@
+.sidebar {
+    width: 200px;
+    background-color: #420d59;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .tab {
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .tab:hover {
+    background-color: #940e46;
+  }
+  
